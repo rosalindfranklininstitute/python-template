@@ -96,7 +96,7 @@ version = {attr = "template._version.__version__"}
 #
 [tool.setuptools_scm]
 
-version_file = "src/template/_version.py"
+write_to = "src/template/_version.py"
 
 #
 # Configure pytest
