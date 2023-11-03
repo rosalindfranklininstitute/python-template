@@ -3,7 +3,7 @@
 This is an example python repository that can be used as a template for other projects
 
 ![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)
-![Building](https://github.com/jmp1985/python-template/actions/workflows/python-package.yml/badge.svg)
+[![Building](https://github.com/jmp1985/python-template/actions/workflows/python-package.yml/badge.svg)](https://github.com/jmp1985/python-template/actions/workflows/python-package.yml)
 
 ## Issues
 
