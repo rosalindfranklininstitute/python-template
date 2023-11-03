@@ -29,7 +29,7 @@ keywords = [
 ]
 
 authors = [
-  {name = "A. Random Developer", email = "author@example.com" }
+  {name = "Aaron A. Aaronson", email = "aaron.aaronson@example.com" }
 ]
 
 classifiers = [
