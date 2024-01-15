@@ -34,5 +34,5 @@ If you would like to help contribute to profet, please read our [contribution](C
 
 Copyright Rosalind Franklin Institute, 2023.
 
-Distributed under the terms of the MIT license, python-template is free and open source software.
+Distributed under the terms of the Apache 2.0 license, python-template is free and open source software.
 
