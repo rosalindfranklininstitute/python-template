@@ -20,4 +20,4 @@ repos:
         exclude: tests
         args:
           - --convention=google
-          - --add-ignore=D100,D104,D200
+          - --add-ignore=D100,D104,D212,D200,D415
