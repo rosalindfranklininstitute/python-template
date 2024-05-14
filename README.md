@@ -28,11 +28,10 @@ Please use the [GitHub issue tracker](https://github.com/rosalindfranklininstitu
 
 ## Contributions
 
-If you would like to help contribute to profet, please read our [contribution](CONTRIBUTING.md) guide and [code of conduct](CODE_OF_CONDUCT.md).
+If you would like to help contribute to python-template, please read our [contribution](CONTRIBUTING.md) guide and [code of conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
 Copyright Rosalind Franklin Institute, 2024.
 
 Distributed under the terms of the Apache-2.0 license, python-template is free and open source software.
-
